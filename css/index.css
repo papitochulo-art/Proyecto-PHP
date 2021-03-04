@@ -1,0 +1,44 @@
+.logo{
+    width: 100px;
+}
+
+.tarjeta{
+    text-align: center;
+    width: 18rem;
+}
+
+.marca{
+    width: 50px;
+}
+
+.fototarjeta{
+    width: 100%;
+}
+
+body{
+    background-color: rgb(13, 110, 139);
+}
+
+select{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 30px;
+}
+
+.formulario{
+    background-color: cadetblue;
+}
+
+.oculto{
+    display: none;
+}
+
+table img{
+    width: 100px;
+}
+
+.enlace{
+    color: black;
+}
